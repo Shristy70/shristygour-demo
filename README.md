@@ -1,3 +1,3 @@
 # shristygour-demo
 i am a new student
-author - shristygour.
+author - Shristy gour.
